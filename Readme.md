@@ -16,6 +16,10 @@
 
 4. 运行exe
 
+## 效果示例：
+
+![app](https://github.com/equantumWang/ticket-query/blob/master/img.png) 
+
 ## 注意事项
 
 1. 每天早上起床/中午/晚上点一次即可，不要疯狂点，不然等会可能就被12306 ban 你的ip
