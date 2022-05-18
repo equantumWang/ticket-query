@@ -8,17 +8,13 @@
 
 **本小程序只可查询最新一天的车次**，即按目前发售规则第五天的车次（前几天也没票了你说是吧）
 
-
-
 ## 食用方法：
 
-1. 下载最新Releases： Query.exe
+1. 在页面右边下载最新Releases： Query_xxx.zip
 
-2. 下载citys.txt 或者 自己新建一个citys.txt并复制本程序中的citys.txt内容
+2. 将citys.txt与Query.exe放在同一文件夹（或者都放在桌面），**按照citys.txt原有格式修改成你想查询的城市即可。**
 
-3. 将citys.txt与Query.exe放在同一文件夹（或者都放在桌面），**按照citys.txt原有格式修改成你想查询的城市即可。**
-
-4. 运行exe
+3. 运行exe
 
 ## 效果示例：
 
